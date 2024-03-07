@@ -49,7 +49,7 @@ __API Version__ : v2
 | /home | - | Homepage |
 | /complete | - | Complete/Finished Anime |
 | /complete/page/${page} | pageNumber | Complete Pagination |
-| /ongoing | - | Ongoing Anime |
+| /ongoing/page/${page} | pageNumber | Ongoing Anime |
 | /schedule | - | Schedule Anime |
 | /genres | - | Genre List |
 | /genres/${id}/page/${page} | id,pageNumber | Show Anime by Genre |
